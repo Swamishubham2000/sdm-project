@@ -1,2 +1,1 @@
-# sdm-project
-sdm
+# simpleweb
